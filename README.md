@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: idk im not intresting 
 
 
-[![ImWhatTheReL's GitHub stats](https://github-readme-stats.vercel.app/api?username=imwhattherel)](https://github.com/anuraghazra/github-readme-stats)
 [![ImWhatTheReL's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
