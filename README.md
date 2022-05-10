@@ -3,7 +3,7 @@
 <!--
 **Imwhattherel/imwhattherel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on: full stack deveolpment coarse 
 - 🌱 I’m currently learning: full stack deveolpment coarse 
