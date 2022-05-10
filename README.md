@@ -4,7 +4,7 @@
 **Imwhattherel/imwhattherel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### About Me 
+### About Me 📌
 
 - 🔭 I’m currently working on: full stack deveolpment coarse 
 - 🌱 I’m currently learning: full stack deveolpment coarse 
@@ -14,7 +14,7 @@
 - 📫 How to reach me: Discord: WhatTheReL#3846
 - ⚡ Fun fact: idk im not intresting 
 
-### My Stats
+### My Stats 📈
 
 ![ImWhatTheReL's GitHub stats](https://github-readme-stats.vercel.app/api?username=imwhattherel&show_icons=true&theme=dark)
 
