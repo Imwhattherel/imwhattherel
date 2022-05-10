@@ -21,3 +21,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imwhattherel&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Important Links 🔗
+
+### Youtube:
+### Twitch:
+### Discord Server: 
+### Website:
+### Twitter:
+### Instagram:
