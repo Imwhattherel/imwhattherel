@@ -29,4 +29,4 @@
 ### Twitter:
 ### Instagram:
 ### TikTok:
-### Amazon Wishlist: 
+### Amazon Wishlist: https://www.amazon.com/hz/wishlist/ls/2TKSI9W66HJ07?ref_=wl_share
