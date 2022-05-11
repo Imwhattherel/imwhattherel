@@ -13,6 +13,7 @@
 - 💬 Ask me about: what ever you want ill try my best to anwser 
 - 📫 How to reach me: Discord: WhatTheReL#3846
 - ⚡ Fun fact: idk im not intresting 
+- coming soon: fivem scripts, cars, mlo. starting in january 2023
 
 ### My Stats 📈
 
