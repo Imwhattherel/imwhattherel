@@ -6,17 +6,16 @@
 
 ### About Me 📌
 
-- 🔭 I’m currently working on: full stack deveolpment coarse 
-- 🌱 I’m currently learning: full stack deveolpment coarse 
+- 🔭 I’m currently working on: HTML, and CSS
+- 🌱 I’m currently learning: More about HTML, and CSS
 - 👯 I’m looking to collaborate on: websites
-- 🤔 I’m looking for help with: JS, SQL, AND PHP
+- 🤔 I’m looking for help with: Backend website deveolpment 
 - 💬 Ask me about: what ever you want ill try my best to anwser 
 - 📫 How to reach me: Discord: WhatTheReL#3846
-- ⚡ Fun fact: idk im not intresting 
+- ⚡ Fun fact: fav numbers are 69 and 420 #nice ;)
 ### coming soon 
 
-discord bot starting asap
-fivem scripts, cars, mlo. starting in january 2023
+fivem scripts, cars, mlo
 
 
 ### My Stats 📈
