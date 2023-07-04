@@ -7,9 +7,9 @@
 ### About Me 📌
 
 - 🔭 I’m currently working on: Fivem Scripts
-- 🌱 I’m currently learning: More about HTML, and CSS
-- 👯 I’m looking to collaborate on: websites
-- 🤔 I’m looking for help with: Backend website deveolpment 
+- 🌱 I’m currently learning: Lua
+- 👯 I’m looking to collaborate on: Fivem Scripts
+- 🤔 I’m looking for help with: Fivem Scripts 
 - 💬 Ask me about: what ever you want ill try my best to anwser 
 - 📫 How to reach me: Discord: whattherel or https://discord.gg/JgJtZxzx8m
 
