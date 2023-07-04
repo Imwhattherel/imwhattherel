@@ -11,8 +11,8 @@
 - 👯 I’m looking to collaborate on: websites
 - 🤔 I’m looking for help with: Backend website deveolpment 
 - 💬 Ask me about: what ever you want ill try my best to anwser 
-- 📫 How to reach me: Discord: WhatTheReL#3846
-- ⚡ Fun fact: fav numbers are 69 and 420 #nice ;)
+- 📫 How to reach me: Discord: whattherel or https://discord.gg/JgJtZxzx8m
+
 
 ### My Stats 📈
 
