@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on: Fivem Scripts
 - 🤔 I’m looking for help with: More Advanced Fivem Scripts 
 - 💬 Ask me about: 
-- 📫 How to reach me: Discord: whattherel or [ReLs Server]([https://discord.gg/43JtMHBpn4](https://discord.gg/43JtMHBpn4))
+- 📫 How to reach me: Discord: whattherel or [ReLs Server](https://discord.gg/43JtMHBpn4)
 
 
 ### My Stats 📈
