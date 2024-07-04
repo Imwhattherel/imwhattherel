@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on: Fivem Scripts
 - 🌱 I’m currently learning: Lua
 - 👯 I’m looking to collaborate on: Fivem Scripts
-- 🤔 I’m looking for help with: Fivem Scripts 
+- 🤔 I’m looking for help with: Moare Advanced Fivem Scripts 
 - 💬 Ask me about: what ever you want ill try my best to anwser 
 - 📫 How to reach me: Discord: whattherel or https://discord.gg/JgJtZxzx8m
 
