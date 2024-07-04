@@ -6,11 +6,11 @@
 
 ### About Me 📌
 
-- 🔭 I’m currently working on: Fivem Scripts
-- 🌱 I’m currently learning: Lua
+- 🔭 I’m currently working on: My Whacker Link
+- 🌱 I’m currently learning: Lua, JS, PHP, and C#
 - 👯 I’m looking to collaborate on: Fivem Scripts
 - 🤔 I’m looking for help with: More Advanced Fivem Scripts 
-- 💬 Ask me about: what ever you want ill try my best to anwser 
+- 💬 Ask me about: 
 - 📫 How to reach me: Discord: whattherel or https://discord.gg/JgJtZxzx8m
 
 
