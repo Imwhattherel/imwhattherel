@@ -6,7 +6,7 @@
 
 ### About Me 📌
 
-- 🔭 I’m currently working on: My Whacker Link
+- 🔭 I’m currently working on: Setup Guide for WhackerLinkFiveM
 - 🌱 I’m currently learning: Lua, JS, PHP, and C#
 - 👯 I’m looking to collaborate on: Fivem Scripts
 - 🤔 I’m looking for help with: More Advanced Fivem Scripts 
