@@ -6,12 +6,12 @@
 
 ### About Me 📌
 
-- 🔭 I’m currently working on: WhackerLinkFiveM
-- 🌱 I’m currently learning: Lua, JS, PHP, and C#
-- 👯 I’m looking to collaborate on: Fivem Scripts
-- 🤔 I’m looking for help with: More Advanced Fivem Scripts 
-- 💬 Ask me about: 
-- 📫 How to reach me: Discord: whattherel or [ReLs Server]([https://discord.gg/43JtMHBpn4](https://discord.gg/FkNQhHtuGp))
+- 🔭 I’m currently working on: WhackerLink
+- 🌱 I’m currently learning: Lua, JS, PHP, HTML, SQL, and C#
+- 👯 I’m looking to collaborate on: WhackerLink
+- 🤔 I’m looking for help with: Contributions To WhackerLink
+- 💬 Ask me about: WhackerLink
+- 📫 How to reach me: Discord: whattherel or [ReLs Studios]([[https://discord.gg/43JtMHBpn4](https://discord.gg/43JtMHBpn4)]([https://discord.gg/FkNQhHtuGp](https://discord.gg/43JtMHBpn4)))
 
 
 ### My Stats 📈
@@ -23,11 +23,10 @@
 
 ### Important Links 🔗
 
-### Youtube:
-### Twitch:
+### Youtube: WhatTheReL
+### Twitch: WhatTheReL
 ### Discord Server:  https://discord.gg/43JtMHBpn4
-### Website:
-### Twitter:
-### Instagram:
-### TikTok:
+### Twitter: WhatTheReL
+### Instagram: ImWhatTheReL
+### TikTok: WhatTheReL
 
