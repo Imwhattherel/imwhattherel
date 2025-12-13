@@ -19,6 +19,8 @@
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-3C873A?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
 
 ## About Me
 - 🔭 I’m currently working on: WhackerLink
