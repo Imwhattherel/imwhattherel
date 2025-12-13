@@ -5,8 +5,7 @@
 -->
 
 
-[https://camo.githubusercontent.com/9ba154e5fb58fd23f8bc384317ce7a0f2d7e124cc95571170b40af52c1eddaf4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436c6f7564666c6172652d4633383032303f7374796c653d666f722d7468652d6261646765266c6f676f3d436c6f7564666c617265266c6f676f436f6c6f723d7768697465](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1)
-### About Me 📌
+
 
 - 🔭 I’m currently working on: WhackerLink
 - 🌱 I’m currently learning: Lua, JS, PHP, HTML, SQL, and C#
