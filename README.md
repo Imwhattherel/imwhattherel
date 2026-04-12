@@ -14,7 +14,7 @@
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-3C873A?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
-![GO](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=go)
+![GO](https://img.shields.io/badge/-000000?style=for-the-badge&logo=go)
 
 <!--
 **Imwhattherel/imwhattherel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
