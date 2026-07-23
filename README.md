@@ -29,7 +29,7 @@
 
 ### My Stats 📈
 
-![ImWhatTheReL's GitHub stats](https://github-readme-stats.vercel.app/api?username=imwhattherel&show_icons=true&theme=github_dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Imwhattherel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Imwhattherel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Imwhattherel&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Imwhattherel&langs_count=4&theme=dark)
 
 
