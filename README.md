@@ -33,8 +33,8 @@
 
 
 ![![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Imwhattherel&langs_count=10&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Imwhattherel&langs_count=10&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=dark)](https://wakatime.com/@alan)
 
-![![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=dark)](https://wakatime.com/@alan)
 
 
 
