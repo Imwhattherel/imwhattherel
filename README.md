@@ -32,7 +32,7 @@
 ![![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Imwhattherel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Imwhattherel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)
 
 
-![![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Imwhattherel&langs_count=10&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Imwhattherel&langs_count=10&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Imwhattherel&langs_count=10&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Imwhattherel&langs_count=10&theme=dark)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=dark)](https://wakatime.com/@alan)
 
 
