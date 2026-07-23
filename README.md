@@ -30,7 +30,7 @@
 ### My Stats 📈
 
 ![ImWhatTheReL's GitHub stats](https://github-readme-stats.vercel.app/api?username=imwhattherel&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imwhattherel&layout=compact&theme=github_dark&show=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Imwhattherel&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Imwhattherel&langs_count=4&theme=dark)
 
 
 
