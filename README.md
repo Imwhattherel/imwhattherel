@@ -40,7 +40,7 @@
 
 ### Youtube: WhatTheReL
 ### Twitch: WhatTheReL
-### Discord Server:  
+### Discord Server: discord.gg/CeGncmktYR
 ### Twitter: WhatTheReL
 ### Instagram: ImWhatTheReL
 ### TikTok: WhatTheReL
